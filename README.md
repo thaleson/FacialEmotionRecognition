@@ -35,41 +35,33 @@ source venv/bin/activate
 
 # Instale as dependências
 pip install -r requirements.txt
-Como Usar 🚀
-Faça o clone do repositório:
-bash
-Copy code
-git clone https://github.com/thaleson/detectordefacesesentimetos.git
+```
+
+## Como Usar 🚀
+
+``` Faça o clone do repositório:
+
+git clone https://github.com/thaleson/detectordefaceesentimentos.git
 cd seu-repositorio
-Instale as dependências:
-bash
-Copy code
-pip install -r requirements.txt
-Execute o script principal:
-bash
-Copy code
-python predict.py
+```
+
+## instale as dependências:
+
+```pip install -r requirements.txt```
+
+## Execute o script principal:
+```python predict.py```
 
 
 ## Compatibilidade ✨
 O projeto foi testado nos seguintes sistemas operacionais:
 
-Windows
-Linux
-macOS
+- Windows
+- Linux
+- macOS
 
 ## Contribuindo 🤝
 Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este projeto.
 
 ## Licença 📝
 Este projeto está licenciado sob a Sua Licença.
-
-perl
-Copy code
-
-Agora você pode copiar este texto e colar diretamente no seu arquivo `README.md`. Lembre-se de substituir `seu-usuario` e `seu-repositorio` pelos detalhes do seu próprio repositório no GitHub.
-
-
-
-
-
