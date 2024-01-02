@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ``` Faça o clone do repositório:
 
-git clone https://github.com/thaleson/detectordefaceesentimentos.git
+git clone https://github.com/thaleson/FacialEmotionRecognition.git
 cd seu-repositorio
 ```
 
