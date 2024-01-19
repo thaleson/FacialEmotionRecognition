@@ -64,4 +64,4 @@ O projeto foi testado nos seguintes sistemas operacionais:
 Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este projeto.
 
 ## Licença 📝
-Este projeto está licenciado sob a Sua Licença.
+Este projeto está licenciado sob  MITLicença.
